@@ -4,5 +4,5 @@ go 1.23.6
 
 require (
 	github.com/sourcefellows/mylib v1.0.0
-	github.com/sourcefellows/mylib/v2 v2.0.0-20250206110123-454d3c9547ff
+	github.com/sourcefellows/mylib/v2 v2.0.0
 )

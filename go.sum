@@ -1,4 +1,4 @@
 github.com/sourcefellows/mylib v1.0.0 h1:B7MqfhMYvN4j6koq7ai3z7VIfHQ6hJTLSQfC9/CMH5g=
 github.com/sourcefellows/mylib v1.0.0/go.mod h1:wkK2S4f/viy1AT2IUfrG2HqJJyLsO6Gz1QuTGTaUnz0=
-github.com/sourcefellows/mylib/v2 v2.0.0-20250206110123-454d3c9547ff h1:aRHvD5QBhbgzipPdls4nmqI9L3/1bBcnx76dv+RYQK0=
-github.com/sourcefellows/mylib/v2 v2.0.0-20250206110123-454d3c9547ff/go.mod h1:pRVTQCwBoJnV5ff/5N1ApHs0nAI7YMZd1rGlWFyrRiU=
+github.com/sourcefellows/mylib/v2 v2.0.0 h1:huKcnXfgeHZKUA7rQvcHjsYblWNhB71u8HXgctbY1Ug=
+github.com/sourcefellows/mylib/v2 v2.0.0/go.mod h1:pRVTQCwBoJnV5ff/5N1ApHs0nAI7YMZd1rGlWFyrRiU=
