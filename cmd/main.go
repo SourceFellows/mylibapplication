@@ -5,6 +5,7 @@ import (
 	"log"
 
 	"github.com/sourcefellows/mylib"
+	newver "github.com/sourcefellows/mylib/v2"
 )
 
 func main() {
@@ -14,6 +15,9 @@ func main() {
 		log.Fatal(err)
 	}
 
+	fmt.Println(result)
+
+	result = newver.HideDigits("123")
 	fmt.Println(result)
 
 }
